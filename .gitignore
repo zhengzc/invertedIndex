@@ -1,0 +1,19 @@
+.settings/
+.classpath
+.project
+bin/
+target/
+classes/
+webapps/
+.war
+*.iml
+*.ipr
+*.iws
+*.class
+*.idea
+
+# Package Files #
+*.jar
+*.war
+*.ear
+.DS_Store
